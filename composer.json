@@ -18,8 +18,7 @@
     }
   },
   "require": {
-    "php": "^8.2",
-    "juststeveking/sdk-tools": "^0.0.5"
+    "php": "^8.2"
   },
   "require-dev": {
     "laravel/pint": "^1.11",
